@@ -11,6 +11,7 @@
 
 .navbar{
 	background-color: #343a40;
+	margin-bottom: 0 !important;
 }
 
 #backgroundimage{
@@ -41,4 +42,13 @@
 .btn-one{
 	color: white;
 	background-color: #838783;
+}
+
+img {
+	width:  100%;
+}
+
+.container-fluid {
+	padding:  0 !important;
+	margin-top:  0 !important;
 }
