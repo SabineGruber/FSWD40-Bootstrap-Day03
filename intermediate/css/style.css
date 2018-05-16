@@ -1,0 +1,44 @@
+#header{
+	display: grid;
+	padding-top: 35px;
+	padding-bottom: 20px;
+}
+
+#photo{
+	width: 250px;
+	height: 50px;
+}
+
+.navbar{
+	background-color: #343a40;
+}
+
+#backgroundimage{
+	background-image: url(../img/headerimg.png);
+	height: 300px;
+	background-size: cover;
+}
+
+.dummy{
+	background-color: #e9e1d8;
+}
+
+.glyphicon{
+	font-size: 45px;
+}
+
+#adventure {
+	height: 200px;
+	background-image: url("../img/adventure.jpg");
+	background-size: cover;
+}
+
+#jumbotron {
+	margin-top: 20px;
+	background-color: #aff7b4;
+}
+
+.btn-one{
+	color: white;
+	background-color: #838783;
+}
